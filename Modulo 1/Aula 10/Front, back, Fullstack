@@ -1,0 +1,15 @@
+Backend:
+
+O backend se refere à parte do desenvolvimento que lida com a lógica de negócios, processamento de dados, interações com bancos de dados e gerenciamento de servidores.
+Os desenvolvedores de backend trabalham com linguagens de programação como Python, Ruby, Java, C#, PHP, entre outras.
+Eles criam e mantêm a infraestrutura que permite a funcionalidade do aplicativo, como APIs (interfaces de programação de aplicativos), servidores, sistemas de gerenciamento de bancos de dados, etc.
+Frontend:
+
+O frontend é a parte visível de um aplicativo ou site com a qual os usuários interagem.
+Os desenvolvedores de frontend trabalham com linguagens como HTML, CSS e JavaScript.
+Eles criam e implementam a interface do usuário, lidando com a estrutura, layout, estilos e interações no navegador.
+Fullstack
+
+Um desenvolvedor fullstack é alguém que tem habilidades tanto no desenvolvimento de frontend quanto de backend.
+Eles têm conhecimento e experiência para trabalhar em todas as camadas de um aplicativo, desde a interface do usuário até o processamento de dados e a infraestrutura do servidor.
+Um desenvolvedor fullstack é capaz de trabalhar em todas as etapas do ciclo de desenvolvimento de um aplicativo, o que oferece uma perspectiva mais ampla e habilidades versáteis.
