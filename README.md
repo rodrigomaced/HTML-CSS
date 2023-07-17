@@ -45,3 +45,28 @@ R: É o local onde meu site vai estar armazendo
  – Identificando o domínio em uma URL
  – Para que serve www em uma URL
  – Sud dominio, dominio, TLD e ULR
+
+ # A diferença entre HTML, CSS e JavaScript
+
+ -HTML VOLTANDO AO CONTEUDO
+  IMAGENS 
+  VIDEOS 
+  TEXTOS
+  TABELAS
+
+ -CSS EM DESIGN
+  CORES 
+  SOMBRAS
+  TAMANHOS 
+  POSICIONAMNETO
+
+ -JS
+  INTERAÇÕES
+  MENUS
+  ANIMAÇÕES
+  POPUPS
+
+  -CONTEUDO HTML 
+ h1 Abertura de ag h1/ fechamento de tag ou seja titulo
+ p abertura paragrafo p/ fechamento
+  
