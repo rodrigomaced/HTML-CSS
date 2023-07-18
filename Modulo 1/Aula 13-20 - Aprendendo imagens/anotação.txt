@@ -1,0 +1,10 @@
+imagens e como usa-las
+formatos de imagem exemplos png e jpeg
+imagens e seus direitos
+tamanhos de imagens, apredendo usar GIMP, abaixop temos exmpelos de sites para buscar imagens 
+Unsplash (https://unsplash.com/)
+Pixabay (https://pixabay.com/)
+Pexels (https://www.pexels.com/)
+Freepik (https://www.freepik.com/)
+TAMANHO de imagem e importante para que o site nao fique lento por conta do tamnho da imagem 
+Redirecionando imagem para o site e corrigindo tamanho e formatos 
